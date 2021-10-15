@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=104704,RESOLUTION=320x240
+https://signedsec.toprankers.com/livehttporigin/2592020/2592020-pr-full-test-1-to-4-discussion--10000-1613111207617/2592020-pr-full-test-1-to-4-discussion--10000-1613111207617-240p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=146672,RESOLUTION=480x360
+https://signedsec.toprankers.com/livehttporigin/2592020/2592020-pr-full-test-1-to-4-discussion--10000-1613111207617/2592020-pr-full-test-1-to-4-discussion--10000-1613111207617-360p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=379519,RESOLUTION=640x480
+https://signedsec.toprankers.com/livehttporigin/2592020/2592020-pr-full-test-1-to-4-discussion--10000-1613111207617/2592020-pr-full-test-1-to-4-discussion--10000-1613111207617-480p.m3u8
